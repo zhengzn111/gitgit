@@ -4,5 +4,6 @@ public class A {
         System.out.println("master");
         System.out.println("master");
         System.out.println("hot ");
+        System.out.println("hot2 ");
     }
 }
