@@ -6,5 +6,6 @@ public class A {
         System.out.println("hot ");
         System.out.println("master 2");
         System.out.println("hot2 ");
+        System.out.println("pull and push ");
     }
 }
